@@ -6,22 +6,29 @@ body {
    background-image: url("https://livewallpaper.info/wp-content/uploads/2015/12/wallpaper-tumblr-hd-1920x1080-2.jpeg");
      background-repeat: no-repeat;
 }
+
 #pro1 {
 
     color: white;
-    text-align: center
+    text-align: center;
+    width:450px;
+    height:250px;
     
 }
 #pro2 {
     
     color: white;
     text-align: center;
+    width:450px;
+    height:250px;
     
 }
 #pro3 {
 
     color: white;
-    text-align: center
+    text-align: center;
+    width:450px;
+    height:250px;
     
 }
 #pro4 {
@@ -35,4 +42,16 @@ body {
     color: white;
     text-align: center
     
+}
+#project1 {
+    width:400px;
+    height:200px;
+}
+#project2 {
+    width:400px;
+    height:200px;
+}
+#project3 {
+    width:400px;
+    height:200px;
 }
